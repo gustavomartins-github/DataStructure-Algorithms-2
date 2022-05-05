@@ -52,14 +52,13 @@ int main (void){
     Agora as variávei "c" e "d" permanecem 3 e 2, pois a soma será armazenada na variável b
     DESCOMENTE O COMENTÁRIO A BAIXO PARA TESTAR*/
     // b = a + b; 
-    
-
+   
     printf("Depois da soma\n");
     printf("a:%d\n", a);  
     printf("b:%d\n", b);  
-    printf("c:%d\n", *c);
-    printf("d:%d\n", *d);
-    printf("e:%d\n", *e);
-    printf("f:%d\n", *f);  
+    printf("c:%d\n", *c); 
+    printf("d:%d\n", *d); 
+    printf("e:%d\n", *e); 
+    printf("f:%d\n", *f);   
 }
 
