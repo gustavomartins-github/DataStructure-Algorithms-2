@@ -38,3 +38,8 @@ int main (void){
     printf("n8 = %d\n",*n8);
     return 0;
 }
+
+int a(size_t penis){
+
+}
+
